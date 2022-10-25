@@ -6,4 +6,4 @@ One repository of szy's
   * [Python](./note/Python.md)
   * [C++](./note/C++.md) 
 * [code](./code)
-  * [Hello World](code/Hello World.cpp)  
+  * [HW](code/Hello World.cpp)
