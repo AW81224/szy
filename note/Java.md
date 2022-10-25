@@ -1,0 +1,1 @@
+this is szy's note of Java
